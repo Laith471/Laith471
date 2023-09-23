@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Laith</h1>
 <h3 align="left">Mod creator for MC</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/f5/80/4a/f5804a456af1f8bb619956e903164159.jpg">
 
 - 🔭 I’m currently working on: [Avaritia Fabric](https://github.com/Laith471/Avaritia-Fabric)
 
